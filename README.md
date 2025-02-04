@@ -29,7 +29,10 @@
 <!-- TROFEOS GITHUB -->
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying 
+- 📚 I am currently studying
+
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pichon25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- CONTACTO -->
 
